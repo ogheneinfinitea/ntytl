@@ -1,0 +1,61 @@
+[06-Jun-2019 17:02:05 Etc/GMT] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uentytl/public_html/users/includes/db.php on line 9
+[06-Jun-2019 17:08:35 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uentytl_admin'@'localhost' to database 'uentytl_register' in /home/uentytl/public_html/users/includes/db.php on line 7
+[06-Jun-2019 17:08:58 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uentytl_admin'@'localhost' to database 'uentytl_register' in /home/uentytl/public_html/users/includes/db.php on line 7
+[06-Jun-2019 17:09:43 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uentytl_admin'@'localhost' to database 'uentytl_register' in /home/uentytl/public_html/users/includes/db.php on line 7
+[06-Jun-2019 17:12:54 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uentytl_admin'@'localhost' to database 'uentytl_register' in /home/uentytl/public_html/users/includes/db.php on line 7
+[06-Jun-2019 17:13:05 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uentytl_admin'@'localhost' to database 'uentytl_register' in /home/uentytl/public_html/users/includes/db.php on line 7
+[06-Jun-2019 17:21:11 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uentytl_admin'@'localhost' to database 'uentytl_reggtggister' in /home/uentytl/public_html/users/includes/db.php on line 7
+[06-Jun-2019 17:30:37 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[06-Jun-2019 17:31:48 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[06-Jun-2019 17:38:55 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[06-Jun-2019 17:42:48 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uentytl/public_html/users/includes/leftside_bar.php:45) in /home/uentytl/public_html/users/profile.php on line 270
+[06-Jun-2019 18:01:30 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uentytl/public_html/users/includes/leftside_bar.php:45) in /home/uentytl/public_html/users/profile.php on line 270
+[06-Jun-2019 18:03:24 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[06-Jun-2019 20:52:43 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[20-Jun-2019 11:25:57 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uentytl/public_html/users/includes/db.php on line 7
+[20-Jun-2019 11:40:06 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/uentytl/public_html/users/profile.php on line 80
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: firstname in /home/uentytl/public_html/users/profile.php on line 112
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: middlename in /home/uentytl/public_html/users/profile.php on line 117
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: phone_number in /home/uentytl/public_html/users/profile.php on line 122
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: gender in /home/uentytl/public_html/users/profile.php on line 128
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: gender in /home/uentytl/public_html/users/profile.php on line 129
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: marital_status in /home/uentytl/public_html/users/profile.php on line 139
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: marital_status in /home/uentytl/public_html/users/profile.php on line 140
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: dob in /home/uentytl/public_html/users/profile.php on line 156
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: bio in /home/uentytl/public_html/users/profile.php on line 161
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: state_of_origin in /home/uentytl/public_html/users/profile.php on line 167
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: state_of_origin in /home/uentytl/public_html/users/profile.php on line 167
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: lga in /home/uentytl/public_html/users/profile.php on line 215
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: home_town in /home/uentytl/public_html/users/profile.php on line 220
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: ward in /home/uentytl/public_html/users/profile.php on line 225
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: ward in /home/uentytl/public_html/users/profile.php on line 226
+[20-Jun-2019 11:40:11 Etc/GMT] PHP Notice:  Undefined index: home_address in /home/uentytl/public_html/users/profile.php on line 255
+[20-Jun-2019 11:41:14 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/uentytl/public_html/users/profile.php on line 80
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: firstname in /home/uentytl/public_html/users/profile.php on line 112
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: middlename in /home/uentytl/public_html/users/profile.php on line 117
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: phone_number in /home/uentytl/public_html/users/profile.php on line 122
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: gender in /home/uentytl/public_html/users/profile.php on line 128
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: gender in /home/uentytl/public_html/users/profile.php on line 129
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: marital_status in /home/uentytl/public_html/users/profile.php on line 139
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: marital_status in /home/uentytl/public_html/users/profile.php on line 140
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: dob in /home/uentytl/public_html/users/profile.php on line 156
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: bio in /home/uentytl/public_html/users/profile.php on line 161
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: state_of_origin in /home/uentytl/public_html/users/profile.php on line 167
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: state_of_origin in /home/uentytl/public_html/users/profile.php on line 167
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: lga in /home/uentytl/public_html/users/profile.php on line 215
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: home_town in /home/uentytl/public_html/users/profile.php on line 220
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: ward in /home/uentytl/public_html/users/profile.php on line 225
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: ward in /home/uentytl/public_html/users/profile.php on line 226
+[20-Jun-2019 12:17:38 Etc/GMT] PHP Notice:  Undefined index: home_address in /home/uentytl/public_html/users/profile.php on line 255
+[20-Jun-2019 12:24:59 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[20-Jun-2019 12:25:13 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uentytl/public_html/users/includes/leftside_bar.php:44) in /home/uentytl/public_html/users/profile.php on line 300
+[20-Jun-2019 12:25:50 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uentytl/public_html/users/includes/leftside_bar.php:44) in /home/uentytl/public_html/users/profile.php on line 300
+[20-Jun-2019 12:44:00 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[20-Jun-2019 12:49:02 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uentytl/public_html/users/includes/leftside_bar.php:44) in /home/uentytl/public_html/users/profile.php on line 300
+[20-Jun-2019 14:00:15 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
+[20-Jun-2019 15:05:14 Etc/GMT] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/uentytl/public_html/users/register.php on line 119
+[20-Jun-2019 15:05:14 Etc/GMT] PHP Notice:  Undefined variable: TO in /home/uentytl/public_html/users/register.php on line 120
+[05-Jul-2019 14:22:46 Etc/GMT] PHP Notice:  Undefined variable: TO in /home/uentytl/public_html/users/register.php on line 120
+[05-Jul-2019 14:22:56 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uentytl/public_html/users/index.php on line 101
